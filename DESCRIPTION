@@ -1,8 +1,8 @@
 Package: MLCM
 Type: Package
 Title: Maximum Likelihood Conjoint Measurement
-Version: 0.4.1
-Date: 2014-02-12
+Version: 0.4.2
+Date: 2019-02-25
 Authors@R: c(person("Ken", "Knoblauch", role = c("aut", "cre"), 
 		email = "ken.knoblauch@inserm.fr"), 
 	     person(c("Laurence", "T."), "Maloney", role = "aut"))
@@ -17,3 +17,4 @@ Maintainer: Ken Knoblauch <ken.knoblauch@inserm.fr>
 NeedsCompilation: no
 Repository: CRAN
 Date/Publication: 2014-02-12 09:34:40
+RoxygenNote: 6.1.1
