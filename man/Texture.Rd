@@ -32,7 +32,7 @@ A fuller analysis of this data set can be found in the examples at \code{\link{m
 Sun H.-C., St-Amand D., Baker C. L. Jr, Kingdom F. A. A. (2021), Visual perception of texture regularity: Conjoint measurements and a wavelet response-distribution model. \emph{PLoS Computational Biology} \bold{17(10)}, e1008802. \doi{10.1371/journal.pcbi.1008802}.
 }
 \references{
-Knoblauch K., Maloney L. T. (2012) Modeling Psychophysical Data in R, Springer Science \& Business Media, \doi{10.1007/978-1-4614-4475-6}.
+Knoblauch K., Maloney L. T. (2012) Modeling Psychophysical Data in R, Springer Science & Business Media, \doi{10.1007/978-1-4614-4475-6}.
 }
 \examples{
 data(Texture)

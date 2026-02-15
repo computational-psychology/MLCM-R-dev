@@ -30,7 +30,7 @@ binom.diagnostics(obj, nsim = 200, type = "deviance")
   \item{ObsRuns }{integer giving the observed number of runs in the sorted deviance residuals}
   \item{p }{numeric giving the proportion of runs in the simulation less than the observed value.}
   }
-\references{Wood, SN \emph{Generalized Additive Models: An Introduction with R}, Chapman \& Hall/CRC, 2006 
+\references{Wood, SN \emph{Generalized Additive Models: An Introduction with R}, Chapman & Hall/CRC, 2006 
 
  Ho, Y. H., Landy. M. S.  and Maloney, L. T. (2008). Conjoint measurement of gloss and surface texture. \emph{Psychological Science}, \bold{19}, 196--204.
 }
